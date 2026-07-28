@@ -1,0 +1,13 @@
+# Supabase local config. `project_id` is replaced by your real ref on link.
+project_id = "skin-care-ai"
+
+# verify_jwt is disabled at the gateway so the function always returns
+# proper CORS headers; auth is enforced inside each function via getUser().
+[functions.analyze-skin]
+verify_jwt = false
+
+[functions.chat]
+verify_jwt = false
+
+[functions.delete-analysis]
+verify_jwt = false

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 170" width="540" height="170">
+  <defs>
+    
+    <linearGradient id="vg" x1="0.1" y1="0" x2="0.9" y2="1">
+      <stop offset="0" stop-color="#f9dcd4"></stop>
+      <stop offset="0.6" stop-color="#cf8369"></stop>
+      <stop offset="1" stop-color="#9c533d"></stop>
+    </linearGradient>
+  </defs>
+
+  
+  <circle cx="86" cy="85" r="66" fill="none" stroke="#c98a72" stroke-width="2"></circle>
+  <circle cx="86" cy="85" r="57" fill="none" stroke="#5a3a30" stroke-width="1.2"></circle>
+  <text x="86" y="116" text-anchor="middle" fill="url(#vg)" style="font-family:&#39;Cormorant Garamond&#39;,serif;font-weight:600;font-size:84px">V</text>
+
+  
+  <text x="184" y="92" fill="url(#vg)" letter-spacing="9" style="font-family:&#39;Cormorant Garamond&#39;,serif;font-weight:600;font-size:54px">VELORA</text>
+  <text x="186" y="120" fill="#cc8a73" letter-spacing="6" style="font-family:&#39;Montserrat&#39;,sans-serif;font-weight:500;font-size:12px">SKINCARE</text>
+</svg>
